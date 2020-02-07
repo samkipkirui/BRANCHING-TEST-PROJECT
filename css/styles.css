@@ -2,3 +2,6 @@ h1{colour:blue}
 h2{clour:black}
 p{color: green;}
 background {colour:grey}
+h2{front-style: italic;
+    text-align: center;
+    colour:teal;}
